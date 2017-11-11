@@ -1,0 +1,11 @@
+name: hierarchical_clustering
+title: Hierarchical Clustering
+account: da-upgrad
+server: shinyapps.io
+appId: 196598
+bundleId: 907424
+url: https://da-upgrad.shinyapps.io/hierarchical_clustering/
+when: 1500384280.49993
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Main.xlsx

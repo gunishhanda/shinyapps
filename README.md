@@ -1,1 +1,1 @@
-# shinyapps
+This code was created to teach students how K-Means clustering works and ho the different attributes of the algorithm affect the final result.# shinyapps
